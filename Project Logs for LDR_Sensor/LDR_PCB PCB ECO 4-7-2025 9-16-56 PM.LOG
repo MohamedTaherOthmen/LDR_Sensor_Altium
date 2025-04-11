@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin J1-VCC
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

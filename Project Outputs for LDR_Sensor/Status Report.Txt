@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LDR_Sensor.PrjPcb]
+   Generated File[LDR_PCB.GTO]
+   Generated File[LDR_PCB.GTP]
+   Generated File[LDR_PCB.GTS]
+   Generated File[LDR_PCB.GTL]
+   Generated File[LDR_PCB.GBL]
+   Generated File[LDR_PCB.GBS]
+   Generated File[LDR_PCB.GBP]
+   Generated File[LDR_PCB.GBO]
+   Generated File[LDR_PCB.GM]
+   Generated File[LDR_PCB.EXTREP]
+   Generated File[LDR_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:09:16 AM On 4/8/2025
